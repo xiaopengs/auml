@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" width="600" height="530">
+<style>text{font-family:system-ui,sans-serif;font-size:12px;fill:#2c3e50;text-anchor:middle}.c{font-size:10px;fill:#7f8c8d}.e{font-size:14px}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#7f8c8d"/></marker></defs>
+<rect width="600" height="530" fill="#fafafa" rx="12"/>
+<text x="300" y="20" font-size="14" font-weight="700" fill="#2c3e50">GLD 治理回路</text>
+<rect x="225" y="40" width="120" height="40" rx="12" fill="#1ABC9C" fill-opacity="0.12" stroke="#1ABC9C" stroke-width="2"/>
+<text x="243" y="65" class="e">📨</text>
+<text x="295" y="65" font-weight="600" fill="#1ABC9C" font-size="11">请求</text>
+<rect x="225" y="120" width="120" height="40" rx="6" fill="#E74C3C" fill-opacity="0.12" stroke="#E74C3C" stroke-width="2"/>
+<text x="243" y="145" class="e">🛡</text>
+<text x="295" y="145" font-weight="600" fill="#E74C3C" font-size="11">护栏</text>
+<rect x="150" y="200" width="120" height="40" rx="12" fill="#F5A623" fill-opacity="0.12" stroke="#F5A623" stroke-width="2"/>
+<text x="168" y="225" class="e">👤</text>
+<text x="220" y="225" font-weight="600" fill="#F5A623" font-size="11">审批</text>
+<rect x="300" y="200" width="120" height="40" rx="6" fill="#4A90D9" fill-opacity="0.12" stroke="#4A90D9" stroke-width="2"/>
+<text x="318" y="225" class="e">🤖</text>
+<text x="370" y="225" font-weight="600" fill="#4A90D9" font-size="11">执行</text>
+<rect x="225" y="280" width="120" height="40" rx="6" fill="#F39C12" fill-opacity="0.12" stroke="#F39C12" stroke-width="2"/>
+<text x="243" y="305" class="e">⚡</text>
+<text x="295" y="305" font-weight="600" fill="#F39C12" font-size="11">熔断</text>
+<rect x="150" y="360" width="120" height="40" rx="6" fill="#FF8C00" fill-opacity="0.12" stroke="#FF8C00" stroke-width="2"/>
+<text x="168" y="385" class="e">⤓</text>
+<text x="220" y="385" font-weight="600" fill="#FF8C00" font-size="11">降级</text>
+<rect x="300" y="360" width="120" height="40" rx="12" fill="#95A5A6" fill-opacity="0.12" stroke="#95A5A6" stroke-width="2"/>
+<text x="318" y="385" class="e">✓</text>
+<text x="370" y="385" font-weight="600" fill="#95A5A6" font-size="11">完成</text>
+<rect x="225" y="440" width="120" height="40" rx="6" fill="#E74C3C" fill-opacity="0.12" stroke="#E74C3C" stroke-width="2"/>
+<text x="243" y="465" class="e">🚨</text>
+<text x="295" y="465" font-weight="600" fill="#E74C3C" font-size="11">告警</text>
+<line x1="285" y1="80" x2="285" y2="120" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="285" y1="160" x2="210" y2="200" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="255" y="172" class="c">yes</text>
+<line x1="285" y1="160" x2="360" y2="200" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="330" y="172" class="c">no</text>
+<line x1="360" y1="240" x2="285" y2="280" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="285" y1="320" x2="210" y2="360" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="255" y="332" class="c">open</text>
+<line x1="285" y1="320" x2="360" y2="360" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="330" y="332" class="c">close</text>
+<line x1="210" y1="400" x2="285" y2="440" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="210" y1="240" x2="360" y2="360" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+</svg>
