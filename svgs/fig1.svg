@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290" width="600" height="290">
+<style>text{font-family:system-ui,sans-serif;font-size:12px;fill:#2c3e50;text-anchor:middle}.c{font-size:10px;fill:#7f8c8d}.e{font-size:14px}</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#7f8c8d"/></marker></defs>
+<rect width="600" height="290" fill="#fafafa" rx="12"/>
+<text x="300" y="20" font-size="14" font-weight="700" fill="#2c3e50">AUML 七图总览</text>
+<rect x="225" y="40" width="120" height="40" rx="6" fill="#4A90D9" fill-opacity="0.12" stroke="#4A90D9" stroke-width="2"/>
+<text x="243" y="65" class="e">🤖</text>
+<text x="295" y="65" font-weight="600" fill="#4A90D9" font-size="11">ACD 协作图</text>
+<rect x="150" y="120" width="120" height="40" rx="6" fill="#9B59B6" fill-opacity="0.12" stroke="#9B59B6" stroke-width="2"/>
+<text x="168" y="145" class="e">🔀</text>
+<text x="220" y="145" font-weight="600" fill="#9B59B6" font-size="11">WOD 编排图</text>
+<rect x="300" y="120" width="120" height="40" rx="6" fill="#E74C3C" fill-opacity="0.12" stroke="#E74C3C" stroke-width="2"/>
+<text x="318" y="145" class="e">🔐</text>
+<text x="370" y="145" font-weight="600" fill="#E74C3C" font-size="11">TRD 信任图</text>
+<rect x="50" y="200" width="120" height="40" rx="6" fill="#4A90D9" fill-opacity="0.12" stroke="#4A90D9" stroke-width="2"/>
+<text x="68" y="225" class="e">💬</text>
+<text x="120" y="225" font-weight="600" fill="#4A90D9" font-size="11">RCD 推理链</text>
+<rect x="200" y="200" width="120" height="40" rx="6" fill="#4A90D9" fill-opacity="0.12" stroke="#4A90D9" stroke-width="2"/>
+<text x="218" y="225" class="e">🧠</text>
+<text x="270" y="225" font-weight="600" fill="#4A90D9" font-size="11">MSD 记忆态</text>
+<rect x="350" y="200" width="120" height="40" rx="6" fill="#7BC67E" fill-opacity="0.12" stroke="#7BC67E" stroke-width="2"/>
+<text x="368" y="225" class="e">🔧</text>
+<text x="420" y="225" font-weight="600" fill="#7BC67E" font-size="11">CCD 契约图</text>
+<rect x="500" y="200" width="120" height="40" rx="6" fill="#E74C3C" fill-opacity="0.12" stroke="#E74C3C" stroke-width="2"/>
+<text x="518" y="225" class="e">🛡</text>
+<text x="570" y="225" font-weight="600" fill="#E74C3C" font-size="11">GLD 治理图</text>
+<line x1="285" y1="80" x2="210" y2="120" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="285" y1="80" x2="360" y2="120" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="210" y1="160" x2="110" y2="200" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="210" y1="160" x2="260" y2="200" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="210" y1="160" x2="410" y2="200" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+<line x1="210" y1="160" x2="560" y2="200" stroke="#7f8c8d" stroke-width="1.5" marker-end="url(#a)"/>
+</svg>
